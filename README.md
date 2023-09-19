@@ -17,8 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="300" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 <p align="left">
-<a href="https://linkedin.com/in/abhilash mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhilash mj" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/abhilash_jayaseelam](https://leetcode.com/Abhilash_Jayaseelam/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhilash_jayaseelam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhilash-mj-310049195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhilash mj" height="30" width="40" /></a>
+<a href="https://leetcode.com/Abhilash_Jayaseelam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhilash_jayaseelam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
